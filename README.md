@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MzadeTural/MzadeTural/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mzadetural/mzadetural/output/snake.svg" alt="Snake animation" />
 
 ###
