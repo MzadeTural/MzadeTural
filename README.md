@@ -1,10 +1,10 @@
-from pathlib import Path
+
 
 <h2 align="left">Hi 👋 I’m @MzadeTural</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=MzadeTural&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=MzadeTural&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/MzadeTural?label=Followers&style=for-the-badge&color=0077B5" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/MzadeTural?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 ## 🛠️ Technologies
