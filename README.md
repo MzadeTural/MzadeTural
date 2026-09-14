@@ -1,6 +1,6 @@
 from pathlib import Path
 
-readme = r"""# Hi 👋, I’m @MzadeTural
+<h2 align="left">Hi 👋 I’m @MzadeTural</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MzadeTural&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
