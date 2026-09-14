@@ -93,17 +93,7 @@ Available as github action. It can automatically generate a new image each day. 
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 ```
 
-[example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L33)
 
-### **svg**
-
-If you are only interested in generating a svg (not a gif), consider using this faster action: `uses: Platane/snk/svg-only@v3`
-
-### **dark mode**
-
-![dark mode](https://github.com/user-attachments/assets/6b900b64-0cdc-43f0-a234-e11dba8e786e)
-
-For **dark mode** support on github, use this [special syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to) in your readme.
 
 ```html
 <picture>
@@ -113,53 +103,5 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 </picture>
 ```
 
-### **interactive demo**
 
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
-</a>
-
-[platane.github.io/snk](https://platane.github.io/snk)
-
-### **npm package**
-
-```ts
-import { generateSnakeAnimation } from "generate-snake-animation";
-
-const outputs = [
-  {
-    format: "svg",
-    drawOptions: {
-      // ..
-    },
-  },
-];
-
-const results = await generateSnakeAnimation(
-  {
-    platform: "github", // supports github, gitlab and forgejo (codeberg)
-    username: "platane",
-    githubToken: process.env.GITHUB_TOKEN,
-  },
-  outputs,
-);
-
-fs.writeFileSync("snake.svg", results[0]);
-```
-
-or with npx
-
-```sh
-npx generate-snake-animation@3 --forgejo_user codeberg.org/JasterV --output snake.svg?palette=codeberg
-```
-
-## Implementation
-
-[solver algorithm](./packages/solver/README.md)
-
-## Contribution Policy
-
-This project does not accept pull request.
-
-Reporting or fixing issues is appreciated, but change in the API or implementation should be discussed in issue first and is likely not going be greenlighted.
 
