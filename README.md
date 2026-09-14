@@ -3,8 +3,8 @@ from pathlib import Path
 <h2 align="left">Hi 👋 I’m @MzadeTural</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MzadeTural&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MzadeTural&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=MzadeTural&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=MzadeTural&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
 ## 🛠️ Technologies
