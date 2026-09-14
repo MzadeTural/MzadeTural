@@ -22,13 +22,13 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.instagram.com/MzadeTural" target="_blank">
+  <a href="https://www.instagram.com/mzadetural_" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:turallmammadzada@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/MzadeTural/" target="_blank">
+  <a href="https://www.linkedin.com/in/tural-mammadzada-92a02a231/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
